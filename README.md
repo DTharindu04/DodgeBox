@@ -8,8 +8,10 @@ gameplay, Dodge Box offers endless entertainment for players of all ages.
 
 Instructions: 
 
-• Use your phone's motion controls to move the character left or right. 
+• Use your phone's motion controls to move the character left or right.
+
 • Avoid colliding with the boxes falling from the top of the screen. 
+
 • Navigate through different characters and backgrounds to add variety to your 
 gameplay experience.
 
