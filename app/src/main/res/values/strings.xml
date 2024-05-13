@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dodge Box</string>
+    <string name="pause">Paused</string>
+    <string name="howtoplay">To play the game, you need to tilt the phone to the right or left. You can continue playing without hitting the boxes coming from the top.</string>
+    <string name="background">Select background:</string>
+    <string name="character">Choose a character:</string>
+
+    <!-- they are not important -->
+    <string name="default_record">00</string>
+    <string name="playgame">playGame</string>
+    <string name="record_image">record_image</string>
+    <string name="game_over">game_over</string>
+    <string name="howTo">howTo</string>
+    <string name="settings">settings</string>
+    <string name="accelerometer">accelerometer</string>
+    <string name="back">back</string>
+    <string name="backgroundId">background</string>
+</resources>
