@@ -15,3 +15,6 @@ Instructions:
 • Navigate through different characters and backgrounds to add variety to your 
 gameplay experience.
 
+Screen Shot
+
+![Home ](https://github.com/DTharindu04/DodgeBox/assets/162688317/3d3e65b6-55de-4d4e-9d63-907f6bf567c2)
