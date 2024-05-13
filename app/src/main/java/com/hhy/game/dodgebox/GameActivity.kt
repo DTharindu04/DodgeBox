@@ -9,7 +9,7 @@ class GameActivity : Activity() {
     private lateinit var view: GameView
     public override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // fullscreen
+        // fullscreens
         window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN)
         setContentView(R.layout.activity_game)
 
